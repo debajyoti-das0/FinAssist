@@ -1,0 +1,12 @@
+# FinAssist: Fraud & Risk Intelligence
+
+fastapi
+uvicorn[standard]
+streamlit
+requests
+pandas
+psycopg2-binary
+python-dotenv
+langgraph
+langchain-groq
+langchain-core
